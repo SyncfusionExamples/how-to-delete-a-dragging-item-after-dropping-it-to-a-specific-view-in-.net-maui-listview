@@ -1,4 +1,4 @@
-# how-to-delete-a-dragging-item-after-dropping-it-to-a-specific-view-in-.net-maui-listview.
+# How to delete a dragging item after dropping it into a specific view in .NET MAUI ListView (SfListView)?
 
 This example demonstrates about how to delete a dragging item after dropping it into a specific view in .NET MAUI ListView (SfListView).
 
